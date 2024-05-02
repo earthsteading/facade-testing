@@ -17,7 +17,7 @@ Our expertise goes beyond traditional facades. We specialize in testing the wate
 ## Our Services:
 
   - [ ] *Sustainable Facade Water Leakage Testing*: Specialized testing tailored to carbon-negative materials.
-  - [ ] *Quality Assurance & Diagnostic Checks*: Evaluate your sustainable facade systems for optimal performance.
+  - [ ] _Quality Assurance & Diagnostic Checks_: Evaluate your sustainable facade systems for optimal performance.
   - [ ] Detailed Test Reports: Meet occupancy certificate & FP1.4 pathway requirements, showcasing the integrity of your green building.
   - [ ] Invest in a future-proof building with Earthsteading's sustainable facade testing.
 
